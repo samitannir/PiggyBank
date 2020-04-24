@@ -1,6 +1,6 @@
 # PiggyBank
 A Decentralized Insurance App Built on the Ethereum Rinkeby Network
-You can read the [full presentation here.] (https://docs.google.com/presentation/d/1GX7j-ITtn183MN-VjvUEBkm3hpNfQ0GbWEw7SXTnUIc/edit?usp=sharing)
+You can read the full presentation here. (https://docs.google.com/presentation/d/1GX7j-ITtn183MN-VjvUEBkm3hpNfQ0GbWEw7SXTnUIc/edit?usp=sharing)
 
 ### ABOUT PIGGYBANK:
 
