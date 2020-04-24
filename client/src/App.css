@@ -1,0 +1,66 @@
+body{
+  font-family: "roboto";
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+#tsparticles {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  z-index: -10;
+  background-color: #7bf;
+}
+.header{
+  background-color: white;
+  opacity: 1;
+  text-align: center;
+  box-shadow: 0 2px 2px 1px grey;
+  opacity: 0.95;
+}
+.header > h1{
+  line-height: 2em;
+  
+}
+.form-container{
+  opacity: 0.95;
+  background-color: white;
+  margin: 50px 0px;
+  border-radius: 10px;
+  padding: 20px 0px;
+
+}
+.btns{
+  width: 100px;
+  margin-right: 10px; 
+}
+.claim-sub-container{
+  margin: 10px 0px;
+}
+.spinner-container{
+  display: flex;
+  width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+}
+.spinner-grow{
+  width: 9rem;
+  height: 9rem;
+}

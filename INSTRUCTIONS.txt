@@ -1,0 +1,19 @@
+1. Install nodejs
+2. run this comamnd in cmd  
+
+	npm install -g truffle	
+
+3. navigate to project directory and run 
+
+	npm install truffle-hdwallet-provider
+4. run 
+	truffle migrate --network rinkeby
+5. navigate to client folder run 
+	npm install 
+6. stay there and run 
+	npm start
+
+
+7. to reset smart contract use this command 
+
+	truffle migrate --network rinkeby --reset
