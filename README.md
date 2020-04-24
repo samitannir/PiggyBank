@@ -18,6 +18,7 @@ Don’t have to pay or depend on a third party
 Instant payouts when your claim is accepted
 
 ### ABOUT THE DAPP:
+
 This app is created with Solidity and react, with truffle being used to bootstrap the project and handle deployments of the smart contract. 
 
 The smart contract has following attributes
@@ -40,7 +41,6 @@ rejectClaim(): after 1 user have created a claim second user can reject claim by
 On the Front end , web3js is used to interact with smart contract with help of metamask extension. 
 all of the smartcontract functions are called according to user interaction with frontend and proper error messages are displayed or success messages are shown accordingly. 
 
-
 ### TO INSTALL AND RUN (Only on Rinkeby):
 1. Install nodejs
 2. run this comamnd in cmd:
@@ -60,3 +60,7 @@ all of the smartcontract functions are called according to user interaction with
 
 7. to reset smart contract use this command:
 	truffle migrate --network rinkeby --reset
+	
+### About Me
+
+I am a young software developer, I am just finishing my studies now at George Brown and York University with a Business Commerce Degree and a specialized certification as a Blockchain developer, my education path accurately represents my interests as I want to pursue the business behind Blockchain in my career. I began working in the space at the beginning of this year when I got the opportunity to intern at a blockchain company named CRE8 – I worked for 3 months as a backend and blockchain developer doing Solidity, Node.Js, and EVM programming. At my latest job at Conflux which is also a blockchain company, I am a business analyst. I study and write reports on the decentralized finance space and am actively involved in providing information and news of the market to team members.
